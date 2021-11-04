@@ -13,7 +13,8 @@ const BarChart = () => {
     const mockData = {
     
         labels: {
-            categories: ['Anakin', 'Barry Allen', 'Kal-El', 'Logan', 'Padmé']
+            //categories: ['Anakin', 'Barry Allen', 'Kal-El', 'Logan', 'Padmé']
+            categories: ['Licia Cruz(Gata)', 'Barry Allen', 'Kal-El', 'Logan', 'Padmé']
         },
         series: [
             {
